@@ -6,8 +6,7 @@
     "build": "nuxt build",
     "dev": "nuxt",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "jump.js": "^1.0.2",
@@ -20,7 +19,6 @@
     "@nuxtjs/color-mode": "^1.1.1",
     "@nuxtjs/style-resources": "^1.0.0",
     "node-sass": "^4.14.1",
-    "push-dir": "^0.4.1",
     "sass-loader": "^7.3.1"
   }
 }
