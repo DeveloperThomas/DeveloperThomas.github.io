@@ -1,0 +1,147 @@
+{
+  "links": {
+    "about": "Thomas Underwood",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "About Me",
+    "projects": "Projects"
+  },
+  "personalInfo": {
+    "name": "Thomas",
+    "lastName": "Underwood",
+    "subHeadingText": [
+      "Web Developer",
+      "Content Creator",
+      "Database Administrator",
+      "Code Enthusiast!"
+    ],
+    "city": "Australia",
+    "phoneNumber": "+61 410 603 270",
+    "email": "tomunderwood.dev@gmail.com",
+    "myDescription": "I'm a passionate web-developer and content creator. My affinity is for back-end development and database design, however have spent the majority of my time working on front-end projects. Websites with beautiful UI/UX, and efficient back-end design, are the future that has already arrived."
+  },
+  "educationDegrees": {
+    "title": "Education & Qualifications",
+    "degrees": [
+      {
+        "collage": "Griffith University",
+        "name": "Bachelor of Commerce",
+        "itemList": [
+          "Accounting & Finance Double Major"
+        ],
+        "startEndDate": "March 2012 - December 2016"
+      },
+      {
+        "collage": "University of Hong Kong",
+        "name": "Bachelor of Business",
+        "itemList": [
+          "Accounting & Finance, International Exchange Year"
+        ],
+        "startEndDate": "July 2015 - May 2016"
+      },
+      {
+        "collage": "Chartered Financial Analyst Institute",
+        "name": "CFA Level 2 Candidate",
+        "itemList": [
+          "Passed the level 1 CFA exam in December 2017, Sydney."
+        ],
+        "startEndDate": "December 2017"
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Experience",
+    "works": [
+      {
+        "position": "Front-end Developer",
+        "companie": "TaiwanMe",
+        "responsabilities": [
+          "Designed and managed development team.",
+          "Creating and maintaining scalable infrastructure leveraging modern AWS products",
+          "Planned post content strategy and timeline.",
+          "Contributed to writing posts and photoraphy."
+        ],
+        "startEndDate": "July 2018 - Present"
+      },
+      {
+        "position": "Chief Financial Officer",
+        "companie": "LocalCoinSwap",
+        "responsabilities": [
+          "Receive ideas from customer through an awesome communicator, discuss with the whole team to find the best solution for each huge feature.",
+          "Setup a large part of AWS servers and services, together with another seniors."
+        ],
+        "startEndDate": "February 2020 - July 2020"
+      },
+      {
+        "position": "Australian Business Development Manager",
+        "companie": "TradingView",
+        "responsabilities": [
+          "Receive ideas from customer, discuss with customer through a Vietnamese project manager to put the first step in all researching and developing phases.",
+          "Giving advices to customer and team about pricing of running services."
+        ],
+        "startEndDate": "August 2019 - January 2020"
+      },
+      {
+        "position": "Finance Officer",
+        "companie": "Sincalir Knight Merz",
+        "responsabilities": [
+          "Line 1.",
+          "Line 2."
+        ],
+        "startEndDate": "August 2018 - August 2019"
+      },
+      {
+        "position": "Finance Assistant",
+        "companie": "ISS Security",
+        "responsabilities": [
+          "Design, implement some parts of system's layout based on customers' ideas and instructions.",
+          "Connect all team members with all types of interest, help new members get along with old members in just a few days."
+        ],
+        "startEndDate": "August 2017 - August 2018"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "iconsTitle": "Prefered Stack",
+    "devIcons": [
+      "devicon-javascript-plain",
+      "devicon-typescript-plain",
+      "devicon-vuejs-plain",
+      "devicon-wordpress-plain",
+      "devicon-nodejs-plain",
+      "devicon-express-original",
+      "devicon-mongodb-plain",
+      "devicon-redis-plain",
+      "devicon-mysql-plain",
+      "devicon-postgresql-plain",
+      "devicon-amazonwebservices-original",
+      "devicon-docker-plain"
+    ],
+    "workflow": "Soft Skills",
+    "itemList": [
+      "Intuitive",
+      "Team Player",
+      "Agile Development & Scrum",
+      "Website Architecture Planning",
+      "Front-End Design Patterns"
+    ]
+  },
+  "interests": {
+    "title": "About Me",
+    "firstBlock": "Apart from web development and technology, my interests include reading (philosophy, psychology and history), travelling (predominanetly to historical locations in Asia), and playing soccer (footbal).",
+    "secondBlock": "While I'm procrastinating, I'm usually watching hours of history and war documentaries on YouTube. I also like to meditate, and have completed three 10-day meditation retreats since 2014. I consider this to be a cornerstone of my self-development and believe the world would be a better place if everyone sat at least one 10-day retreat in their lives."
+  },
+  "projects": {
+    "title": "Projects",
+    "projectsInfo": [
+      {
+        "name": "",
+        "description": "",
+        "image": "",
+        "siteUrl": ""
+      }
+    ]
+  }
+}
