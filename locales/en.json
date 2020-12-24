@@ -82,8 +82,6 @@
         "companie": "TradingView",
         "responsabilities": [
           "Business development manager for Australia.",
-          "Maintained Australian stock market information.",
-          "Giving advices to customer and team about pricing of running services",
           "Developed and managed Australian community.",
           "Grew Australian platform user-base from 30,000 to over 100,000.",
           "Grew monthly Australian sessions to over 1 million."
@@ -96,8 +94,8 @@
         "responsabilities": [
           "Prepared quarterly and annual ROI reports.",
           "Prepared custom designed financial performance reports.",
-          "Managed budgeting and invoicing for large multi-million dollar infrastructure projects.",
-          "Worked closely with project managers from architectural, engineering and economic divisions."
+          "Worked closely with project managers from architectural, engineering and economic divisions.",
+          "Managed budgeting and invoicing for large multi-million dollar infrastructure projects."
         ],
         "startEndDate": "September 2011 - March 2014"
       },
@@ -105,9 +103,9 @@
         "position": "Finance Assistant",
         "companie": "ISS Australia",
         "responsabilities": [
-          "Prepared and managed invoicing for patrols division.",
+          "Prepared and managed invoicing for patrols department.",
           "Assisted finance manager with budgeting and reporting.",
-          "Forecasted budgetory concerns."
+          "Forecasted budgetory concerns for patrols department."
         ],
         "startEndDate": "February 2011 - August 2011"
       }
@@ -131,7 +129,7 @@
     ],
     "workflow": "Soft Skills",
     "itemList": [
-      "Intuitive / Team Plater / Collaborative",
+      "Intuitive / Collaborative / Problem Solver",
       "Agile Development & Scrum",
       "Website Architecture Planning",
       "Front-End Design Patterns"
@@ -140,7 +138,7 @@
   "interests": {
     "title": "About Me",
     "firstBlock": "Apart from web development and technology, my interests include reading (philosophy, psychology and history), travelling, and playing soccer (footbal).",
-    "secondBlock": "During my downtime, I can be found watching hours of history and war documentaries or listening to podcasts. I believe in the power of meditation, and have completed three 10-day meditation retreats since 2014. I consider this to be a cornerstone of my self-development and think the world would be a better place if everyone sat at least one 10-day retreat in their lifetimes."
+    "secondBlock": "During my downtime, I can be found watching history and war documentaries or listening to podcasts. I believe in the power of meditation, and have completed three 10-day meditation retreats since 2014. I consider this to be a cornerstone of my self-development and think the world would be a better place if everyone sat at least one 10-day retreat in their lifetimes."
   },
   "projects": {
     "title": "Projects",
