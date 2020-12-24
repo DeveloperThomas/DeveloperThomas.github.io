@@ -19,7 +19,7 @@
     "city": "Australia",
     "phoneNumber": "+61 410 603 270",
     "email": "tomunderwood.dev@gmail.com",
-    "myDescription": "I'm a passionate web-developer and content creator. My affinity is for back-end development and database design, however have spent the majority of my time working on front-end projects. Websites with beautiful UI/UX, and efficient back-end design, are the future that has already arrived."
+    "myDescription": "I'm a passionate web-developer and content creator. My affinity is for back-end development and database design, however have spent most of my time working on front-end projects. Websites with beautiful UI/UX, and efficient back-end design, are the future that has already arrived."
   },
   "educationDegrees": {
     "title": "Education & Qualifications",
@@ -57,9 +57,9 @@
         "position": "Front-end Developer",
         "companie": "TaiwanMe",
         "responsabilities": [
-          "Designed and managed development team.",
-          "Creating and maintaining scalable infrastructure leveraging modern AWS products",
-          "Planned post content strategy and timeline.",
+          "Stack used - Wordpress, PHP, HTML, CSS",
+          "Led 3 person designer and development team.",
+          "Created content strategy and post timeline.",
           "Contributed to writing posts and photoraphy."
         ],
         "startEndDate": "July 2018 - Present"
@@ -93,7 +93,7 @@
       },
       {
         "position": "Finance Assistant",
-        "companie": "ISS Security",
+        "companie": "ISS Australia",
         "responsabilities": [
           "Design, implement some parts of system's layout based on customers' ideas and instructions.",
           "Connect all team members with all types of interest, help new members get along with old members in just a few days."
