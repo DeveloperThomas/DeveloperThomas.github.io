@@ -19,7 +19,7 @@
     "city": "Australia",
     "phoneNumber": "+61 410 603 270",
     "email": "tomunderwood.dev@gmail.com",
-    "myDescription": "I'm a passionate web-developer and content creator. My affinity is for back-end development and database design, however have spent most of my time working on front-end projects. Websites with beautiful UI/UX, and efficient back-end design, are the future that has already arrived."
+    "myDescription": "I'm a passionate web-developer and content creator. My affinity is for back-end development and database design, however have spent most of my time working on front-end projects. Websites with beautiful UI/UX, and efficient back-ends, are the future that has already arrived."
   },
   "educationDegrees": {
     "title": "Education & Qualifications",
@@ -28,7 +28,9 @@
         "collage": "Griffith University",
         "name": "Bachelor of Commerce",
         "itemList": [
-          "Accounting & Finance Double Major"
+          "Accounting & Finance Double Major",
+          "CFA Research Competition participant",
+          "International exchange student ambassador"
         ],
         "startEndDate": "March 2012 - December 2016"
       },
@@ -44,7 +46,7 @@
         "collage": "Chartered Financial Analyst Institute",
         "name": "CFA Level 2 Candidate",
         "itemList": [
-          "Passed the level 1 CFA exam in December 2017, Sydney."
+          "Passed CFA level 2 exam in December 2017, Sydney."
         ],
         "startEndDate": "December 2017"
       }
@@ -57,48 +59,57 @@
         "position": "Front-end Developer",
         "companie": "TaiwanMe",
         "responsabilities": [
-          "Stack used - Wordpress, PHP, HTML, CSS",
+          "Stack used - Wordpress, PHP, HTML, CSS.",
           "Led 3 person designer and development team.",
           "Created content strategy and post timeline.",
           "Contributed to writing posts and photoraphy."
         ],
-        "startEndDate": "July 2018 - Present"
+        "startEndDate": "September 2018 - March 2019"
       },
       {
         "position": "Chief Financial Officer",
         "companie": "LocalCoinSwap",
         "responsabilities": [
-          "Receive ideas from customer through an awesome communicator, discuss with the whole team to find the best solution for each huge feature.",
-          "Setup a large part of AWS servers and services, together with another seniors."
+          "Wrote white-paper and designed application architecture.",
+          "Planned and managed IPO marketing strategy.",
+          "Developed and managed user community.",
+          "Raised $12M in IPO fundraising."
         ],
-        "startEndDate": "February 2020 - July 2020"
+        "startEndDate": "October 2017 - August 2018"
       },
       {
         "position": "Business Development Manager",
         "companie": "TradingView",
         "responsabilities": [
           "Business development manager for Australia.",
-          "Giving advices to customer and team about pricing of running services."
+          "Maintained Australian stock market information.",
+          "Giving advices to customer and team about pricing of running services",
+          "Developed and managed Australian community.",
+          "Grew Australian platform user-base from 30,000 to over 100,000.",
+          "Grew monthly Australian sessions to over 1 million."
         ],
-        "startEndDate": "August 2019 - January 2020"
+        "startEndDate": "August 2017 - January 2018"
       },
       {
         "position": "Finance Officer",
         "companie": "Sincalir Knight Merz",
         "responsabilities": [
-          "Line 1.",
-          "Line 2."
+          "Prepared quarterly and annual ROI reports.",
+          "Prepared custom designed financial performance reports.",
+          "Managed budgeting and invoicing for large multi-million dollar infrastructure projects.",
+          "Worked closely with project managers from architectural, engineering and economic divisions."
         ],
-        "startEndDate": "August 2018 - August 2019"
+        "startEndDate": "September 2011 - March 2014"
       },
       {
         "position": "Finance Assistant",
         "companie": "ISS Australia",
         "responsabilities": [
-          "Design, implement some parts of system's layout based on customers' ideas and instructions.",
-          "Connect all team members with all types of interest, help new members get along with old members in just a few days."
+          "Prepared and managed invoicing for patrols division.",
+          "Assisted finance manager with budgeting and reporting.",
+          "Forecasted budgetory concerns."
         ],
-        "startEndDate": "August 2017 - August 2018"
+        "startEndDate": "February 2011 - August 2011"
       }
     ]
   },
@@ -107,7 +118,6 @@
     "iconsTitle": "Prefered Stack",
     "devIcons": [
       "devicon-javascript-plain",
-      "devicon-typescript-plain",
       "devicon-vuejs-plain",
       "devicon-wordpress-plain",
       "devicon-nodejs-plain",
@@ -129,8 +139,8 @@
   },
   "interests": {
     "title": "About Me",
-    "firstBlock": "Apart from web development and technology, my interests include reading (philosophy, psychology and history), travelling (predominanetly to historical locations in Asia), and playing soccer (footbal).",
-    "secondBlock": "While I'm procrastinating, I'm usually watching hours of history and war documentaries on YouTube. I also like to meditate, and have completed three 10-day meditation retreats since 2014. I consider this to be a cornerstone of my self-development and believe the world would be a better place if everyone sat at least one 10-day retreat in their lives."
+    "firstBlock": "Apart from web development and technology, my interests include reading (philosophy, psychology and history), travelling, and playing soccer (footbal).",
+    "secondBlock": "During my downtime, I can be found watching hours of history and war documentaries or listening to podcasts. I believe in the power of meditation, and have completed three 10-day meditation retreats since 2014. I consider this to be a cornerstone of my self-development and think the world would be a better place if everyone sat at least one 10-day retreat in their lifetimes."
   },
   "projects": {
     "title": "Projects",
