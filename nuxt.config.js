@@ -35,7 +35,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Web developer from Australia - Thomas Underwood."
+        content: "Web developer and content creator from Australia - Thomas Underwood."
       }
     ],
     link: [

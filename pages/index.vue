@@ -109,7 +109,14 @@ export default {
   },
   head() {
     return {
-      title: "Thomas Underwood"
+      title: "Thomas Underwood",
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Web developer and content creator from Australia - Thomas Underwood.'
+        }
+      ],
     };
   },
   methods: {
