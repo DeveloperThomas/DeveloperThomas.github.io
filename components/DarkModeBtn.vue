@@ -11,9 +11,7 @@ export default {
   mounted(){
     this.setLightMode();
 
-    async function setLightMode() { 
-    await setTimeout(() => {if(this.colorMode != "light") {this.colorMode = "light"}}, 2000);
-    }
+    setTimeout(() => {this.colorMode = light}, 3000)
   },
   data() {
     return {

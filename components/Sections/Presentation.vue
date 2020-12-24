@@ -30,7 +30,7 @@
     </h3>
 
     <div class="subheading mb-5">
-      {{ $t('personalInfo.city') }} | {{ $t('personalInfo.phoneNumber') }} |
+      {{ $t('personalInfo.city') }} · {{ $t('personalInfo.phoneNumber') }} ·
       {{ $t('personalInfo.email') }}
     </div>
     <p class="mb-5">
