@@ -13,7 +13,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: process.env.npm_package_name || "",
+    title: "Thomas Underwood",
     script: [
       {
         src:
@@ -35,7 +35,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: process.env.npm_package_description || ""
+        content: "Web developer from Australia - Thomas Underwood."
       }
     ],
     link: [
