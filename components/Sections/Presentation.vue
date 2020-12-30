@@ -29,13 +29,28 @@
       ></vue-typer>
     </h3>
 
-    <div class="subheading mb-5">
+    <div class="subheading mb-3">
       {{ $t('personalInfo.city') }} · {{ $t('personalInfo.phoneNumber') }} ·
       {{ $t('personalInfo.email') }}
     </div>
-    <p class="mb-5">
+    <p class="mb-3">
       {{ $t('personalInfo.myDescription') }}
     </p>
+
+    <div class="subheading mb-3">Find me on</div>
+    <ul class="list-inline list-icons" style="text-align:left">
+      <li class="list-inline-item">
+        <a href="https://github.com/DeveloperThomas"><i class="devicon-github-original"></i></a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://twitter.com/AussieUnderwood"><i class="devicon-twitter-plain"></i></a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://www.linkedin.com/in/tomunderwood1/"><i class="devicon-linkedin-plain"></i></a>
+      </li>
+    </ul>
+
+    
   </div>
 </template>
 

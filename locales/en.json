@@ -3,7 +3,7 @@
     "about": "Thomas Underwood",
     "education": "Education",
     "experience": "Experience",
-    "skills": "Skills",
+    "skills": "Skills & Portfolio",
     "interests": "About Me",
     "projects": "Projects"
   },
@@ -61,7 +61,7 @@
         "responsabilities": [
           "Stack used - Wordpress, PHP, HTML, CSS.",
           "Led 3 person designer and development team.",
-          "Installed Google Analytics, Google Search Console, and Google Tag Manager."
+          "Installed Google Analytics, Google Search Console, and Google Tag Manager.",
           "Created content strategy and post timeline."
         ],
         "startEndDate": "September 2018 - March 2019"
@@ -100,7 +100,7 @@
         "startEndDate": "September 2011 - March 2014"
       },
       {
-        "position": "Finance Assistant",
+        "position": "Invoicing Officer",
         "companie": "ISS Australia",
         "responsabilities": [
           "Prepared and managed invoicing for patrols department.",
@@ -112,7 +112,7 @@
     ]
   },
   "skills": {
-    "title": "Skills",
+    "title": "Skills & Portfolio",
     "iconsTitle": "Prefered Stack",
     "devIcons": [
       "devicon-javascript-plain",
@@ -133,7 +133,9 @@
       "Agile Development & Scrum",
       "Website Architecture Planning",
       "Front-End Design Patterns"
-    ]
+    ],
+    "portfolio": "Portfolio Links",
+    "portfolioLinks": ["<a href='https://travel.taiwanme.com/guguan-hot-springs-boai-village/'>Example TaiwanMe website design and writing</a>"]
   },
   "interests": {
     "title": "About Me",

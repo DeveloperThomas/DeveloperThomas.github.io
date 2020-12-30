@@ -98,7 +98,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: ["@nuxtjs/style-resources", "@nuxtjs/color-mode"],
+  buildModules: ["@nuxtjs/style-resources", "@nuxtjs/color-mode", '@nuxtjs/tailwindcss'],
   styleResources: {
     // your settings here
     scss: ["'./assets/scss/*.scss'", "./assets/scss/resume.scss"]
